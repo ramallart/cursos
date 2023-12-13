@@ -41,6 +41,13 @@ El mòdul Proveïdors pot liquidar tots els pagaments amb les transaccions de pa
 pagament (com pagaments amb xec i electrònics), condicions de pagament, regles de descompte per pagament anticipat, dies de pagament i
 calendaris.
 
+## Comptabilitat de costos
+Comptabilitat de costos és una branca de la comptabilitat que registra, classifica, analitza i resum els costos que realitza una empresa.
+El mòdul Comptabilitat de costos administra els processos utilitzats en la comptabilitat de costos, com la base d'assignació, el llibre 
+de comptabilitat de costos i el moviment, la classificació i el comportament dels costos.
+
+#### Cas d'ús
+
 
 
 
