@@ -26,7 +26,16 @@ Comptabilitat de costos és una branca de la comptabilitat que registra, classif
 Una empresa multinacional té operacions en quatre països, representats per quatre entitats jurídiques diferents. Disposa d'un centre de costos per gestionar les operacions dels països. El mòdul Comptabilitat de costos ajuda a comptabilitzar les opercaions diàries de les entitats jurídiques. Fa un seguiment de les despeses, les medeix i n'estudia els seus efectes, ajudant a decidir com utilitzar els recursos de manera efectiva.
 
 ## Gestió pressupostària
-Aquest mòdul proporciona informació general dels components de la funcionalitat de gestió pressupostària, les eines de gestió pressupostària i les funcions d'informes. El mòdul de pressupostos de Dynamics 365 es divideix en tres seccions principals: planificació pressupostària, entrada de pressupostos i control pressupostari. La planificació 
+Aquest mòdul proporciona informació general dels components de la funcionalitat de gestió pressupostària, les eines de gestió pressupostària i les funcions d'informes. El mòdul de pressupostos de Dynamics 365 es divideix en tres seccions principals: planificació pressupostària, entrada de pressupostos i control pressupostari. La planificació pressupostària garanteix que es compleixin les directius, els procediments i els requeriments de l'organització en implantar el pressupost. Amb l'entrada de pressupostos (el pas següent), podem enregistrar els elements del pressupost en Finance i assignar-los als comptes de comptabilitat. El control pressupostari és el pas opcional amb el que es valida les transaccions financeres en Finance segons les línies pressupostàries registrades.
+
+#### Cas d'ús
+Es pot utilitzar Finance per ganatir la planificació estratègica a llarg plaç i la planificació pressuspostària anual, amb la finalitat de fer un seguiment de les transaccions financeres d'una manera que encaixi amb la jerarquia organitzativa. L'assignació del pressupost es pot configurar per els comptes principals i les dimensions definides en el pla de comptes de l'organització. També es pot aplicar el control pressupostari en les transaccions, en funció del pressupost establert. El nivell de control depèn de la cultura i el grau de maduresa de l'organització.
+
+## Gestió d'efectiu i bancs
+La gestió d'efectiu i bancs s'utilitza per a mantenir els comptes bancaris de l'entitat jurídica i els instruments financers associats a tots els comptes bancaris. Entre aquests instruments es pot trobar resguards de dipòsit, xecs lletres de canvi i pagarès. També pot conciliar extractes bancaris i imprimir les dades bancàries en informes estàndard.
+
+#### Cas d'ús
+Des d'aquest mòdul es pot mantenir comptes bancaris organitzatius i fer totes les operacions relacionades amb el banc. Si es necessita conciliar un extracte bancari amb el seu llibre de comptabilitat, Finance permet importar l'extracte i conciliar-lo automàticament des de les transaccions bancàries. En aquest mòdul, també es pot pronosticar les xifres de fluxs d'efectiu. Les dades de clients i proveïdors, conjuntament amb les condicions de pagament, poden deduïr la previsió de flux d'efectiu de l'organització.
 
 
 
@@ -34,7 +43,34 @@ Aquest mòdul proporciona informació general dels components de la funcionalita
 
 
 
-Este módulo proporciona información general de los componentes de la funcionalidad de gestión presupuestaria, las herramientas de gestión presupuestaria y las funciones de informes. El módulo de presupuestos en Dynamics 365 se divide en tres secciones principales: planificación presupuestaria, entrada de presupuestos y control presupuestario. La planificación presupuestaria garantiza que se cumplan las directivas, los procedimientos y los requisitos de la organización al implantar el presupuesto. Con la entrada de presupuestos (el paso siguiente), podemos registrar los elementos del presupuesto en Finance y asignarlos a cuentas de contabilidad. El control presupuestario es el paso opcional con el que validamos las transacciones financieras en Finance según las líneas presupuestarias registradas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
