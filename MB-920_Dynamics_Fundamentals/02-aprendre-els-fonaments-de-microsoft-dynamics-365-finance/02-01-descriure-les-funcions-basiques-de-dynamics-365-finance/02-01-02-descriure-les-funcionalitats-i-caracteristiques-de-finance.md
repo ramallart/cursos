@@ -37,6 +37,22 @@ La gestió d'efectiu i bancs s'utilitza per a mantenir els comptes bancaris de l
 #### Cas d'ús
 Des d'aquest mòdul es pot mantenir comptes bancaris organitzatius i fer totes les operacions relacionades amb el banc. Si es necessita conciliar un extracte bancari amb el seu llibre de comptabilitat, Finance permet importar l'extracte i conciliar-lo automàticament des de les transaccions bancàries. En aquest mòdul, també es pot pronosticar les xifres de fluxs d'efectiu. Les dades de clients i proveïdors, conjuntament amb les condicions de pagament, poden deduïr la previsió de flux d'efectiu de l'organització.
 
+## Actius fixes
+Aquest mòdul proporciona accés a recursos que utilitzen actius fixes per a Finance. Els actius fixes són articles de valor que pertanyen a un individu o organització. Poden ser edificis, vehicles, terres i equips.
+
+#### Cas d'ús
+Diferents organitzacions tenen diferents tipus d'actius fixes per operar al seu negoci. Hi ha actius tangibles, com propietats, equips i inventari. Les organitzacions utilitzen aquests actius fixes per a produïr béns i serveis. Les organitzacions també tenen actius intangibles, que no existeixen físicament, però representen un valor monetari, com drets d'autor, marques i fons de comerç. Aquest tipus d'actius pot augmentar el valor futur d'una organització i, a vegades, poden ser més valuosos que els actius tangibles. En el mòdul d'actius fixes, es manté el perfil d'un actiu, com els detalls de compra, la valoració actual i el perfil de depreciació.
+
+## Gestió de desepeses
+La gestió de despeses permet crear un flux de treball integrat amb la finalitat d'emmagatzemar dades de mètodes de pagament, importar transaccions amb targetes de crèdit i fer un seguiment dels diners que gasten els empleats. També pot definir les directives de despeses i automatitzar el retorn de les despeses de viatge.
+
+#### Cas d'ús
+Una empresa té definides regles i directius per a diferents despeses, com viatges i alimentació. En el mòdul de Gestió de despeses, poden definir totes aquestes directius en funció de la jerarquia organitzativa. Per exemple, quan un empleat registra despeses, aquests s'ajusten a les directius introduïdes. També és possible introduïr despeses per a entitats jurídiques creuades, quan un empleat participa en un projecte que pertany a una entitat jurídica diferent i és necessari introduïr despeses per al projecte.
+
+## Característiques normatives
+Les aplicacions de finances i operacions inclouen funcions normatives per a diferents països/regions. Aquesta funció s'activa segons la direcció principal de l'entitat jurídica activa. En aquesta funcionalitat, hi ha actualitzacions normatives per adaptar-la a les noves legislacions o modificacions per a un país o regió. Les actualitzacions normatives que s'entreguen amb revisions o com a part d'una versió preliminar es poden identificar, respectivament, amb les sigles HF i amb "Versió preliminar". També envia i revisa alertes normatives. Pot comprovar les Actualitzacions reglamentaries per obtenir informació sobre els últims plans d'actualització nromativa.
+
+#### Cas d'ús
 
 
 
